@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8mwa7vriBAFO4a8y9fqOl6LSD4NNDRMMM0zYx2IqkQA1I+ak8cj/y+SwApMdFdwyh0XGGCUXjQF3yLfKSkMW/A==",
+  "dgSpecHash": "OgGhbDqw+myJNhEZk/YzzHO6goEwt/7QSLdeW9RId6vbiPG/J2hgKLT82HuFdj2OnH0rjxHw84Zb3cfx3ebYiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Projekt\\Blazor\\Blazor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
   "logs": []
 }
